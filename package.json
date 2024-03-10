@@ -1,0 +1,8 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@fortawesome/fontawesome-pro": "github:FortAwesome/Font-Awesome-Pro",
+		"fontawesome-subset": "^4.4.0"
+	},
+	"packageManager": "yarn@4.1.1"
+}
